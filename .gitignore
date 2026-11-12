@@ -1,0 +1,16 @@
+# Dataset files
+*.csv
+*.xlsx
+*.xls
+*.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+venv/
